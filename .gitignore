@@ -1,0 +1,4 @@
+data/train/cats/*
+data/train/dogs/*
+data/validation/cats/*
+data/validation/dogs/*
